@@ -1,0 +1,40 @@
+
+.container{
+    height: 450px;
+    width: 110%;
+}
+img{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    width: 60%;
+    padding: 30px;
+}
+.title{
+    text-align: center;
+    font-style:normal;
+    font-weight: 900;   
+}
+.dis{
+    text-align: center;
+    border-top: 3px double #000;
+    border-bottom: 3px double #000;
+}
+main article{
+    display: inline-block;
+}
+p{
+   width: 150%; 
+}
+footer{
+    width: 50%;
+}
+.pabaiga{
+    text-align: center;
+}
+.a-solid {
+    color: black;
+}
