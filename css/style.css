@@ -1,0 +1,78 @@
+
+body,h1{
+    margin: 15px;;
+}
+.container{
+    height: 800px;
+    width: 90%;
+    margin: 15px auto;
+}
+img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    padding: 15px;
+    
+}
+.title{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-family:"Times New Roman", Times, serif;
+    font-weight: normal;
+    letter-spacing: -2px;
+    word-spacing: 10px;
+    line-height: 1px;
+    margin:10px,0px,30px,0px;
+    margin-block-end: 0.67em;
+}
+.dis{
+    border-top: 4px double #d9d3d3;
+    border-bottom: 4px double #d9d3d3;
+    font-size: 25px;
+    padding: 15px;
+
+}
+main article{
+    /* display: inline-block; */
+    display: table-cell;
+    text-wrap:balance;
+    text-align: center;
+    width: 24%;
+    height: 30px;
+    text-overflow: clip;
+}
+.Naujiena2{
+    line-break:initial;
+}
+*p{
+   width: 150%; 
+}
+.dis{
+    text-align: center;
+}
+.pabaiga{
+    text-align: center;
+    color:#afb2b8;
+    padding: 15px;
+    font-size: 12px;
+    
+}
+.a-solid {
+    color: black;
+}
+h2 a i{
+  color:#d9d3d3;  
+  font-size: small;
+
+}
+article h2{
+    text-align: center;
+    font-family:"Times New Roman", Times, serif;
+    letter-spacing: 1px;
+    font-weight: lighter;
+
+}
